@@ -36,34 +36,45 @@ I believe non-technical AI super-individuals will reshape every industry. The ga
 ### 🦞 OpenClaw Ecosystem
 
 - 🦞 [feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) — Connect Feishu/Lark to OpenClaw AI agent. No server, no domain, 5 min setup.
+  飞书/Lark 接入 OpenClaw AI 智能体，无需服务器、无需域名，5 分钟搞定。
 
 - 🦞 [openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) — Feishu plugin × OpenClaw step-by-step guide & community support.
+  飞书插件 × OpenClaw 保姆级配置指南 & 社区支持。
 
 - 📚 [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) — 29 real-world AI agent use cases, beginner-friendly.
+  29 个经验证的 AI 智能体真实用例，零基础可用。
 
 - 👥 [opencrew](https://github.com/AlexAnys/opencrew) — Multi-agent OS for decision makers. Run a team of AI specialists via Slack.
+  多智能体协作系统——通过 Slack 管理多个 AI 专家团队。
 
 - 📊 [feishu-mcp](https://github.com/AlexAnys/feishu-mcp) — Let AI read & write Feishu docs, tables, and wikis directly.
+  让 AI 直接读写飞书文档、多维表格和知识库。
 
 ### 🧰 Tools
 
 - 🔌 [ai-sub-auth](https://github.com/AlexAnys/ai-sub-auth) — Reuse your AI subscriptions (ChatGPT Plus, Claude, Gemini, Copilot) across any open-source app. One module, every provider.
+  复用你的 AI 订阅，一个模块集成所有 AI 服务商到任意开源应用。
 
 - 🗣️ [typeless-lite](https://github.com/AlexAnys/typeless-lite) — Voice input organizer. Auto-reads your transcripts, groups them by day, links each entry to the app and project you were working on.
+  语音输入整理工具——自动按天整理语音转文字内容，关联当时使用的程序和项目。
 
 - ⌨️ [voiceink](https://github.com/AlexAnys/voiceink) — Open-source AI-powered input method running entirely on-device.
+  本地开源 AI 输入法，完全在设备端运行。
 
 ### 📈 Products
 
 - 🎓 [FinSim](https://github.com/AlexAnys/finsim-cursor) — Financial education simulator. Students practice with AI-powered clients in realistic scenarios.
+  金融教育模拟平台——学生与 AI 客户进行实战对话训练。
 
 - 🔍 [chatgpt-export-AI-viewer](https://github.com/AlexAnys/chatgpt-export-AI-viewer) — Visualize and analyze your ChatGPT conversation history with AI.
+  ChatGPT 对话记录 AI 分析可视化看板。
 
 ---
 
 ## Connect
 
 - 🌐 [anlan.ai](https://anlan.ai)
+- 📧 [anyangsen@hotmail.com](mailto:anyangsen@hotmail.com)
 
 <!-- 
 - 📝 Blog / 即刻 / 小红书 link
