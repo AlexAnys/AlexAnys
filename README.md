@@ -67,13 +67,13 @@
 
 Non-technical founder exploring how far domain experts can go with AI.
 
-2,000+ hours of deep AI collaboration. Built 20+ tools, 2 SaaS platforms, and a multi-agent collaboration framework — without a CS degree.
+2,000+ hours of deep AI collaboration. Built 20+ tools, 2 SaaS platforms, and a multi-agent collaboration framework.
 
 I believe non-technical AI super-individuals will reshape every industry. The gap is already narrow enough to cross — bridging the last 5% unlocks a 90% leap in engineering capability.
 
 非技术背景创业者，探索领域专家用 AI 能走多远。
 
-2000+ 小时深度 AI 协作，用 AI 构建了 20+ 工具、2 个 SaaS 平台和 1 个多智能体协作框架——没有计算机学位。
+2000+ 小时深度 AI 协作，用 AI 构建了 20+ 工具、2 个 SaaS 平台和 1 个多智能体协作框架。
 
 我相信，非技术背景诞生的 AI 超级个体，将重构各个产业，这个 gap 已窄到容易跨越，最后5% 的跨越将解锁 90% 的工程能力阶跃
 
