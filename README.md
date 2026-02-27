@@ -51,7 +51,7 @@
   语音输入整理工具——自动按天整理语音转文字内容，关联当时使用的程序和项目。
 
 - ⌨️ [voiceink](https://github.com/AlexAnys/voiceink) — Open-source AI-powered input method running entirely on-device.
-  本地开源 AI 输入法，完全在设备端运行。
+  本地开源 AI 输入法，完全在设备端运行。（beta 版）
 
 ### 📈 Products
 
