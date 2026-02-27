@@ -4,7 +4,7 @@
 
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-5C2D91?style=flat-square&logo=cursor&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> 从零入门 coding 到沉迷 Coding Agent 创造，5 个月。用 AI 构建了 20+ 工具、2 个 SaaS 平台和 1 个多智能体协作框架。
+> 从零入门 coding 到沉迷 Coding Agent 创造，4 个月。用 AI 构建了 20+ 工具、2 个 SaaS 平台和 1 个多智能体协作框架。
 >
 > Coding inspired by [Andrej Karpathy](https://karpathy.ai/) and [Peter Steinberger](https://steipete.me/).
 >
