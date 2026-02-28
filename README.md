@@ -26,7 +26,7 @@
   29 个经验证的 AI 智能体真实用例，零基础可用。
 
 - 👥 [opencrew](https://github.com/AlexAnys/opencrew) — Multi-agent OS for decision makers. Run a team of AI specialists via Slack.
-  多智能体协作系统——通过 Slack 管理多个 AI 专家团队。
+  多智能体协作系统——通过 Slack 管理多个 AI 专家团队。✨
 
 - 📊 [feishu-mcp](https://github.com/AlexAnys/feishu-mcp) — Let AI read & write Feishu docs, tables, and wikis directly.
   让 AI 直接读写飞书文档、多维表格和知识库。
