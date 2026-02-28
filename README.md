@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-📍 Shanghai | 🌉 Bridging Domain Expertise × AI | 🚀 Founder of [anlan.ai](https://anlan.ai)
+📍 Shanghai | 🌉 Bridging Domain Expertise × AI | 🚀 Founder of [anlan.ai](http://anlan.ai)
 
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-5C2D91?style=flat-square&logo=cursor&logoColor=white) ![Ghostty](https://img.shields.io/badge/-Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
@@ -81,7 +81,7 @@ I believe non-technical AI super-individuals will reshape every industry. The ga
 
 ## Connect
 
-- 🌐 [anlan.ai](https://anlan.ai)
+- 🌐 [anlan.ai](http://anlan.ai)
 - 📧 [anyangsen@hotmail.com](mailto:anyangsen@hotmail.com)
 
 <!-- 
