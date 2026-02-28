@@ -8,7 +8,7 @@
 >
 > Coding inspired by [Andrej Karpathy](https://karpathy.ai/) and [Peter Steinberger](https://steipete.me/).
 >
-> 最近的 vibe coding 方式：Claude Code / Codex CLI + Agent Teams + YOLO + Plan First + Atomic Git
+> 最近的 vibe coding 方式：Claude Code / Codex CLI + Agent Teams + YOLO + Plan First + TDD + Atomic Git
 
 ---
 
