@@ -74,7 +74,7 @@ I believe non-technical AI super-individuals will reshape every industry. The ga
 - 💻 **700+** hours of AI coding collaboration (Claude Code · Codex · Cursor · Antigravity · VS code)
 - 🏗️ **Built** 20+ tools/apps + 2 SaaS platforms + 1 agent collaboration framework ([OpenCrew](https://github.com/AlexAnys/opencrew))
 - 🎤 **[CEIBS 2025 AI Leadership Forum](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — Chief Organizer
-- ⭐ **900+** GitHub stars across open-source projects
+- ⭐ **1000++** GitHub stars across open-source projects
 - 🏆 **ChatGPT Top 1% User, the strategist, 2025 Annual**
 
 ---
