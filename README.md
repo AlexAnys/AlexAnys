@@ -12,17 +12,6 @@
 
 ---
 
-## Credentials
-
-- ⏱️ **2,000+** hours of AI collaboration experience (covering all top AI tools and Agents)
-- 💻 **700+** hours of AI coding collaboration (Claude Code · Codex · Cursor · Antigravity · VS code)
-- 🏗️ **Built** 20+ tools/apps + 2 SaaS platforms + 1 agent collaboration framework ([OpenCrew](https://github.com/AlexAnys/opencrew))
-- 🎤 **[CEIBS 2025 AI Leadership Forum](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — Chief Organizer
-- ⭐ **900+** GitHub stars across open-source projects
-- 🏆 **ChatGPT Top 1% User, the strategist, 2025 Annual**
-
----
-
 ## What I Recently Built
 
 ### 🦞 OpenClaw Ecosystem
@@ -76,6 +65,17 @@ I believe non-technical AI super-individuals will reshape every industry. The ga
 2000+ 小时深度 AI 协作，用 AI 构建了 20+ 工具、2 个 SaaS 平台和 1 个多智能体协作框架——没有计算机学位。
 
 我相信，非技术背景诞生的 AI 超级个体，将重构各个产业，这个 gap 已窄到容易跨越，最后5% 的跨越将解锁 90% 的工程能力阶跃
+
+---
+
+## Credentials
+
+- ⏱️ **2,000+** hours of AI collaboration experience (covering all top AI tools and Agents)
+- 💻 **700+** hours of AI coding collaboration (Claude Code · Codex · Cursor · Antigravity · VS code)
+- 🏗️ **Built** 20+ tools/apps + 2 SaaS platforms + 1 agent collaboration framework ([OpenCrew](https://github.com/AlexAnys/opencrew))
+- 🎤 **[CEIBS 2025 AI Leadership Forum](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — Chief Organizer
+- ⭐ **900+** GitHub stars across open-source projects
+- 🏆 **ChatGPT Top 1% User, the strategist, 2025 Annual**
 
 ---
 
