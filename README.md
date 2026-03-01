@@ -1,3 +1,5 @@
+[🇨🇳 中文版](./README_CN.md)
+
 # Hi, I'm Alex 👋
 
 **Non-technical founder who built 20+ tools with AI — no CS degree.**
@@ -26,6 +28,8 @@
 
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — Reuse your AI subscriptions (ChatGPT, Claude, Gemini, Copilot) in any open-source app
 - 🎓 [**FinSim**](https://github.com/AlexAnys/finsim-cursor) — Financial education simulator with AI-powered client scenarios
+- 🗣️ [**typeless-lite**](https://github.com/AlexAnys/typeless-lite) — Voice input organizer. Auto-groups transcripts by day, links to apps & projects
+- ⌨️ [**voiceink**](https://github.com/AlexAnys/voiceink) — Open-source AI-powered input method, runs entirely on-device
 - 🔍 [**chatgpt-export-AI-viewer**](https://github.com/AlexAnys/chatgpt-export-AI-viewer) — Visualize & analyze your ChatGPT conversation history
 
 ---
