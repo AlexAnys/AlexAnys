@@ -22,10 +22,10 @@
 | [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) | Feishu/Lark × OpenClaw step-by-step guide & community 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=flat-square) |
 | [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | Connect Feishu/Lark to OpenClaw — no server, 5 min setup 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square) |
 | [**opencrew**](https://github.com/AlexAnys/opencrew) | Multi-agent OS — run a team of AI specialists via Slack 👥 | ![Stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square) |
-| [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) | Let AI read & write Feishu docs, tables, and wikis 📊 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-mcp?style=flat-square) |
 
 ## 🧰 Tools & Products
 
+- 📊 [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) — Let AI read & write Feishu docs, tables, and wikis ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-mcp?style=flat-square)
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — Reuse your AI subscriptions (ChatGPT, Claude, Gemini, Copilot) in any open-source app
 - 🎓 [**FinSim**](https://github.com/AlexAnys/finsim-cursor) — Financial education simulator with AI-powered client scenarios
 - 🗣️ [**typeless-lite**](https://github.com/AlexAnys/typeless-lite) — Voice input organizer. Auto-groups transcripts by day, links to apps & projects
