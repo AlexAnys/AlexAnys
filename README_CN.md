@@ -18,11 +18,11 @@
 
 | 项目 | 简介 | Stars |
 |------|------|-------|
-| [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 37 个经验证的 AI 智能体真实用例，零基础可用 📚 | ![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square) |
-| [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) | 飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=flat-square) |
-| [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | 飞书/Lark 接入 OpenClaw，无需服务器、无需域名，5 分钟搞定 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square) |
-| [**opencrew**](https://github.com/AlexAnys/opencrew) | 多智能体协作系统——通过 Slack 管理多个 AI 专家团队 👥 | ![Stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square) |
-| [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) | 让 AI 直接读写飞书文档、多维表格和知识库 📊 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-mcp?style=flat-square) |
+| [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 37 个经验证的 AI 智能体真实用例，零基础可用 📚 | ![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square&cacheSeconds=3600) |
+| [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) | 飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=flat-square&cacheSeconds=3600) |
+| [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | 飞书/Lark 接入 OpenClaw，无需服务器、无需域名，5 分钟搞定 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square&cacheSeconds=3600) |
+| [**opencrew**](https://github.com/AlexAnys/opencrew) | 多智能体协作系统——通过 Slack 管理多个 AI 专家团队 👥 | ![Stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square&cacheSeconds=3600) |
+| [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) | 让 AI 直接读写飞书文档、多维表格和知识库 📊 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-mcp?style=flat-square&cacheSeconds=3600) |
 
 ## 🧰 工具 & 产品
 
