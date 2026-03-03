@@ -2,7 +2,7 @@
 
 # 你好，我是 Alex 👋
 
-**非技术背景创业者，用 AI 构建了 20+ 工具——没有计算机学位。**
+**非技术背景创业者，用 AI 构建了 20+ 工具——[OpenClaw](https://github.com/openclaw/openclaw) 早期用户和贡献者。**
 
 📍 上海 · 🚀 [anlan.ai](https://anlan.ai) 创始人 · 🌉 领域专长 × AI
 
@@ -25,7 +25,7 @@
 
 ## 🧰 工具 & 产品
 
-- 📊 [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) — 让 AI 直接读写飞书文档、多维表格和知识库 ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-mcp?style=flat-square)
+- 📊 [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) — 让 AI 直接读写飞书文档、多维表格和知识库
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — 复用你的 AI 订阅（ChatGPT、Claude、Gemini、Copilot），一个模块集成所有 AI 服务商到任意开源应用
 - 🎓 [**FinSim**](https://github.com/AlexAnys/finsim-cursor) — 金融教育模拟平台——学生与 AI 客户进行实战对话训练
 - 🗣️ [**typeless-lite**](https://github.com/AlexAnys/typeless-lite) — 语音输入整理工具——自动按天整理语音转文字内容，关联当时使用的程序和项目

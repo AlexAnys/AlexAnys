@@ -2,7 +2,7 @@
 
 # Hi, I'm Alex 👋
 
-**Non-technical founder who built 20+ tools with AI — no CS degree.**
+**Non-technical founder who built 20+ tools with AI — early user and contributor of [OpenClaw](https://github.com/openclaw/openclaw).**
 
 📍 Shanghai · 🚀 Founder of [anlan.ai](https://anlan.ai) · 🌉 Bridging Domain Expertise × AI
 
@@ -25,7 +25,7 @@
 
 ## 🧰 Tools & Products
 
-- 📊 [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) — Let AI read & write Feishu docs, tables, and wikis ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-mcp?style=flat-square)
+- 📊 [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) — Let AI read & write Feishu docs, tables, and wikis
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — Reuse your AI subscriptions (ChatGPT, Claude, Gemini, Copilot) in any open-source app
 - 🎓 [**FinSim**](https://github.com/AlexAnys/finsim-cursor) — Financial education simulator with AI-powered client scenarios
 - 🗣️ [**typeless-lite**](https://github.com/AlexAnys/typeless-lite) — Voice input organizer. Auto-groups transcripts by day, links to apps & projects
