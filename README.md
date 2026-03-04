@@ -4,8 +4,7 @@
 
 **Non-technical founder who built 20+ tools with AI — early user and contributor of [OpenClaw](https://github.com/openclaw/openclaw).**
 
-📍 Shanghai · 🚀 Founder of [anlan.ai](https://anlan.ai) · 🌉 Bridging Domain Expertise × AI · CEIBS · University of Chicago
-
+📍 Shanghai · 🚀 Founder of [anlan.ai](https://anlan.ai) · 🌉 Bridging Domain Expertise × AI · CEIBS · Chicago Booth
 ---
 
 > 2,000+ hours of AI collaboration. From zero coding experience to shipping 20+ tools, 2 SaaS platforms, and a multi-agent framework — in 4 months.
