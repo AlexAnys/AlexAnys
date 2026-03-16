@@ -69,7 +69,10 @@ Coding inspired by [Andrej Karpathy](https://karpathy.ai/) and [Peter Steinberge
 
 ## 🤝 Open Invitation
 
-Helping domain experts collaborate with AI and ship in real-world scenarios — if that resonates, let's build together.
+Two things I'm looking for collaborators on:
+
+- **Domain × AI** — Help domain experts collaborate with AI and ship in real-world scenarios
+- **Chinese AI agent ecosystem** — Co-maintain the open-source community around personal AI agents (use cases, skills, best practices) for Chinese-speaking users
 
 📧 [anyangsen@hotmail.com](mailto:anyangsen@hotmail.com)
 

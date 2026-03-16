@@ -70,7 +70,10 @@ Claude Code / Codex CLI → Agent Teams → Plan First → TDD → Atomic Git
 
 ## 🤝 开放邀请
 
-帮助领域专家更好地使用 AI 协作，在真实场景落地——如果这也是你想做的事，欢迎一起。
+两个方向，欢迎志同道合的朋友一起：
+
+- **领域 × AI 落地** — 帮助领域专家更好地使用 AI 协作，在真实场景中落地
+- **中文 AI Agent 开源生态** — 共同维护面向中文用户的个人智能体社区（真实用例、Skills、最佳实践）
 
 📧 [anyangsen@hotmail.com](mailto:anyangsen@hotmail.com)
 
