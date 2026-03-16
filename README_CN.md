@@ -16,7 +16,8 @@
 
 ## 🔭 正在进行
 
-- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — 用 AI 做生产级应用，不是玩具 Demo——源自 Stanford CS146S 与 Chicago Booth 的 Agentic Coding 课程
+- 🖥️ [**安澜终端**](https://anlan.ai) — 领域专家的 AI 工作台——用自然语言驱动 Agent 团队，把想法变成可用的产品
+- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — 用 AI 做生产级应用，不是玩具 Demo——源自 Stanford 与 Chicago Booth 的 Agentic Coding 课程
 - 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — 一个人，一支完整的 AI 团队——7 个专业 Agent 通过 Slack 自主协作
 - 📊 [**v0-opencrew-agent-dashboard**](https://github.com/AlexAnys/v0-opencrew-agent-dashboard) — 看你的 Agent 团队在做什么——多智能体实时运营看板
 - 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — 即插即用的 Agent 团队配置——从验证过的方案开始，不用从零摸索

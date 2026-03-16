@@ -15,7 +15,8 @@
 
 ## 🔭 Currently Building
 
-- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — Build production apps with AI, not toy demos — agentic coding curriculum from Stanford CS146S & Chicago Booth
+- 🖥️ [**Anlan Terminal**](https://anlan.ai) — AI workstation for domain experts — natural language in, working software out
+- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — Build production apps with AI, not toy demos — agentic coding curriculum from Stanford & Chicago Booth
 - 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — One person, a full AI team — 7 specialized agents collaborating autonomously via Slack
 - 📊 [**v0-opencrew-agent-dashboard**](https://github.com/AlexAnys/v0-opencrew-agent-dashboard) — See what your AI team is doing — real-time multi-agent operations dashboard
 - 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — Plug-and-play agent team configurations — start with proven setups, not from scratch
