@@ -14,11 +14,22 @@
 
 ---
 
+## 🔭 正在进行
+
+- 🖥️ [**安澜终端**](https://anlan.ai) — 领域专家的 AI 工作台——用自然语言驱动 Agent 团队，把想法变成可用的产品
+- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — 用 AI 做生产级应用，不是玩具 Demo——源自 Stanford 与 Chicago Booth 的 Agentic Coding 课程
+- 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — 一个人，一支完整的 AI 团队——7 个专业 Agent 通过 Slack 自主协作
+- 📊 [**v0-opencrew-agent-dashboard**](https://github.com/AlexAnys/v0-opencrew-agent-dashboard) — 看你的 Agent 团队在做什么——多智能体实时运营看板
+- 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — 即插即用的 Agent 团队配置——从验证过的方案开始，不用从零摸索
+- 🗄️ [**openclaw-skill-vault**](https://github.com/AlexAnys/openclaw-skill-vault) — 从 5,000+ 社区 Skills 中精选——测试过的，分类好的，直接可用
+
+---
+
 ## 🔥 核心项目
 
 | 项目 | 简介 | Stars |
 |------|------|-------|
-| [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 37 个经验证的 AI 智能体真实用例，零基础可用 📚 | ![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square) |
+| [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 40+ 个经验证的 AI 智能体真实用例，零基础可用 📚 | ![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square) |
 | [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) | 飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=flat-square) |
 | [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | 飞书/Lark 接入 OpenClaw，无需服务器、无需域名，5 分钟搞定 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square) |
 | [**opencrew**](https://github.com/AlexAnys/opencrew) | 多智能体协作系统——通过 Slack 管理多个 AI 专家团队 👥 | ![Stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square) |
@@ -51,9 +62,21 @@ Claude Code / Codex CLI → Agent Teams → Plan First → TDD → Atomic Git
 - ⏱️ **2,000+** 小时 AI 协作经验（覆盖所有主流 AI 工具和智能体）
 - 💻 **700+** 小时 AI coding 协作（Claude Code · Codex · Cursor · Antigravity · VS Code）
 - 🏗️ **构建了** 20+ 工具/应用 + 2 个 SaaS 平台 + 1 个多智能体协作框架（[OpenCrew](https://github.com/AlexAnys/opencrew)）
-- ⭐ **3,000+** GitHub stars
-- 🎤 **[中欧 2025 AI 领导力论坛](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — 总策划人
+- ⭐ **3,500+** GitHub stars
 - 🏆 **ChatGPT Top 1% 用户** — 年度策略师，2025
+- 🎤 **[中欧 2025 AI 领导力论坛](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — 总策划人
+- 🎓 **中欧 MBA AI & Digital Club** — 创始人 & 首任主席
+
+---
+
+## 🤝 开放邀请
+
+两个方向，欢迎志同道合的朋友一起：
+
+- **领域 × AI 落地** — 帮助领域专家更好地使用 AI 协作，在真实场景中落地
+- **中文 AI Agent 开源生态** — 共同维护面向中文用户的个人智能体社区（真实用例、Skills、最佳实践）
+
+📧 [anyangsen@hotmail.com](mailto:anyangsen@hotmail.com)
 
 ---
 

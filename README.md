@@ -13,11 +13,22 @@
 
 ---
 
+## 🔭 Currently Building
+
+- 🖥️ [**Anlan Terminal**](https://anlan.ai) — AI workstation for domain experts — natural language in, working software out
+- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — Build production apps with AI, not toy demos — agentic coding curriculum from Stanford & Chicago Booth
+- 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — One person, a full AI team — 7 specialized agents collaborating autonomously via Slack
+- 📊 [**v0-opencrew-agent-dashboard**](https://github.com/AlexAnys/v0-opencrew-agent-dashboard) — See what your AI team is doing — real-time multi-agent operations dashboard
+- 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — Plug-and-play agent team configurations — start with proven setups, not from scratch
+- 🗄️ [**openclaw-skill-vault**](https://github.com/AlexAnys/openclaw-skill-vault) — Curated from 5,000+ community skills — tested, organized, ready to deploy
+
+---
+
 ## 🔥 Featured Projects
 
 | Project | What it does | Stars |
 |---------|-------------|-------|
-| [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 37 real-world AI agent use cases, beginner-friendly 📚 | ![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square) |
+| [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 40+ real-world AI agent use cases, beginner-friendly 📚 | ![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square) |
 | [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) | Feishu/Lark × OpenClaw step-by-step guide & community 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=flat-square) |
 | [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | Connect Feishu/Lark to OpenClaw — no server, 5 min setup 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square) |
 | [**opencrew**](https://github.com/AlexAnys/opencrew) | Multi-agent OS — run a team of AI specialists via Slack 👥 | ![Stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square) |
@@ -50,9 +61,21 @@ Coding inspired by [Andrej Karpathy](https://karpathy.ai/) and [Peter Steinberge
 - ⏱️ **2,000+** hours of AI collaboration (all major AI tools & agents)
 - 💻 **700+** hours of AI coding (Claude Code · Codex · Cursor · Antigravity · VS Code)
 - 🏗️ **Built** 20+ tools/apps + 2 SaaS + 1 multi-agent framework ([OpenCrew](https://github.com/AlexAnys/opencrew))
-- ⭐ **3,000+** GitHub stars across open-source projects
-- 🎤 **[CEIBS 2025 AI Leadership Forum](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — Chief Organizer
+- ⭐ **3,500+** GitHub stars across open-source projects
 - 🏆 **ChatGPT Top 1% User** — The Strategist, 2025 Annual
+- 🎤 **[CEIBS 2025 AI Leadership Forum](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — Chief Organizer
+- 🎓 **CEIBS MBA AI & Digital Club** — Founder & First President
+
+---
+
+## 🤝 Open Invitation
+
+Two things I'm looking for collaborators on:
+
+- **Domain × AI** — Help domain experts collaborate with AI and ship in real-world scenarios
+- **Chinese AI agent ecosystem** — Co-maintain the open-source community around personal AI agents (use cases, skills, best practices) for Chinese-speaking users
+
+📧 [anyangsen@hotmail.com](mailto:anyangsen@hotmail.com)
 
 ---
 
