@@ -63,8 +63,9 @@ Claude Code / Codex CLI → Agent Teams → Plan First → TDD → Atomic Git
 - 💻 **700+** 小时 AI coding 协作（Claude Code · Codex · Cursor · Antigravity · VS Code）
 - 🏗️ **构建了** 20+ 工具/应用 + 2 个 SaaS 平台 + 1 个多智能体协作框架（[OpenCrew](https://github.com/AlexAnys/opencrew)）
 - ⭐ **3,500+** GitHub stars
-- 🎤 **[中欧 2025 AI 领导力论坛](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — 总策划人
 - 🏆 **ChatGPT Top 1% 用户** — 年度策略师，2025
+- 🎤 **[中欧 2025 AI 领导力论坛](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — 总策划人
+- 🎓 **中欧 MBA AI & Digital Club** — 创始人 & 首任主席
 
 ---
 
