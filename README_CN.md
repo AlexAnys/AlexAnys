@@ -16,11 +16,11 @@
 
 ## 🔭 正在进行
 
-- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — 面向非技术领域专家的 Agentic Coding 课程（改编自 Stanford CS146S）
-- 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — 开箱即用的 Agent 团队模板
-- 🗄️ [**openclaw-skill-vault**](https://github.com/AlexAnys/openclaw-skill-vault) — 从 5,000+ 社区 Skills 中精选
-- 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — 多智能体协作系统——通过 Slack 管理多个 AI 专家团队
-- 📊 [**v0-opencrew-agent-dashboard**](https://github.com/AlexAnys/v0-opencrew-agent-dashboard) — 多智能体团队实时运营看板
+- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — 用 AI 做生产级应用，不是玩具 Demo——源自 Stanford CS146S 与 Chicago Booth 的 Agentic Coding 课程
+- 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — 一个人，一支完整的 AI 团队——7 个专业 Agent 通过 Slack 自主协作
+- 📊 [**v0-opencrew-agent-dashboard**](https://github.com/AlexAnys/v0-opencrew-agent-dashboard) — 看你的 Agent 团队在做什么——多智能体实时运营看板
+- 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — 即插即用的 Agent 团队配置——从验证过的方案开始，不用从零摸索
+- 🗄️ [**openclaw-skill-vault**](https://github.com/AlexAnys/openclaw-skill-vault) — 从 5,000+ 社区 Skills 中精选——测试过的，分类好的，直接可用
 
 ---
 
