@@ -178,25 +178,46 @@ def save_csv(dates, totals):
 THEMES = {
     "light": {
         "bg": "#ffffff",
-        "line": "#2563eb",
-        "fill_alpha": 0.07,
+        "line": "#3B82F6",
+        "fill_top": 0.18,
+        "fill_bottom": 0.02,
         "title_color": "#111827",
         "subtitle_color": "#6b7280",
         "spine_color": "#e5e7eb",
-        "grid_color": "#f3f4f6",
+        "grid_color": "#f0f0f0",
         "tick_color": "#9ca3af",
+        "milestone_color": "#d1d5db",
+        "milestone_text": "#9ca3af",
+        "dot_color": "#2563eb",
     },
     "dark": {
         "bg": "#0d1117",
         "line": "#58a6ff",
-        "fill_alpha": 0.12,
+        "fill_top": 0.22,
+        "fill_bottom": 0.02,
         "title_color": "#e6edf3",
         "subtitle_color": "#8b949e",
         "spine_color": "#30363d",
         "grid_color": "#161b22",
         "tick_color": "#484f58",
+        "milestone_color": "#21262d",
+        "milestone_text": "#484f58",
+        "dot_color": "#58a6ff",
     },
 }
+
+
+def _find_milestones(dates, totals):
+    """Find dates when star milestones were crossed."""
+    milestones = []
+    for target in [500, 1000, 2000, 3000]:
+        if target > totals[-1]:
+            break
+        for i, t in enumerate(totals):
+            if t >= target:
+                milestones.append((dates[i], target))
+                break
+    return milestones
 
 
 def generate_charts(dates, totals):
@@ -205,74 +226,102 @@ def generate_charts(dates, totals):
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
     import matplotlib.dates as mdates
-    from matplotlib.ticker import FuncFormatter, MaxNLocator
+    from matplotlib.ticker import FuncFormatter, MultipleLocator
+    import numpy as np
 
     ASSETS_DIR.mkdir(parents=True, exist_ok=True)
     total = totals[-1]
     span_days = (dates[-1] - dates[0]).days
+    milestones = _find_milestones(dates, totals)
 
     for name, t in THEMES.items():
-        fig = plt.figure(figsize=(10, 3.5), dpi=150)
+        # Taller ratio → steeper-looking growth curve
+        fig = plt.figure(figsize=(8, 5), dpi=150)
         fig.patch.set_facecolor(t["bg"])
 
-        # Title: star count + subtitle
+        # ── Title block ──
         fig.text(
-            0.06, 0.93, f"★ {total:,}",
-            fontsize=24, fontweight="bold", color=t["title_color"],
-            va="top", fontfamily="monospace",
+            0.10, 0.95, f"★ {total:,}",
+            fontsize=28, fontweight="bold", color=t["title_color"],
+            va="top",
         )
         fig.text(
-            0.06, 0.79, "Total GitHub Stars · All Repos",
-            fontsize=11, color=t["subtitle_color"], va="top",
+            0.10, 0.875,
+            f"Total GitHub Stars  ·  {span_days} days  ·  all repos",
+            fontsize=10, color=t["subtitle_color"], va="top",
         )
 
-        # Chart axes (leave room for title)
-        ax = fig.add_axes([0.07, 0.13, 0.89, 0.52])
+        # ── Chart area ──
+        ax = fig.add_axes([0.10, 0.10, 0.86, 0.62])
         ax.set_facecolor(t["bg"])
 
-        # Plot line + fill
+        # Clean area fill
+        ax.fill_between(dates, totals, alpha=t["fill_top"], color=t["line"], linewidth=0)
+
+        # Main line
         ax.plot(
             dates, totals,
-            color=t["line"], linewidth=2.5,
+            color=t["line"], linewidth=3,
             solid_capstyle="round", solid_joinstyle="round",
+            zorder=5,
         )
-        ax.fill_between(dates, totals, alpha=t["fill_alpha"], color=t["line"])
 
-        # Spines
+        # End-point dot
+        ax.plot(dates[-1], totals[-1], "o",
+                color=t["dot_color"], markersize=7,
+                markeredgecolor=t["bg"], markeredgewidth=2, zorder=6)
+
+        # ── Milestone dots on the curve (subtle) ──
+        for mdate, mvalue in milestones:
+            ax.plot(mdate, mvalue, "o",
+                    color=t["line"], markersize=4,
+                    markeredgecolor=t["bg"], markeredgewidth=1.5, zorder=6)
+
+        # ── Axes styling ──
         ax.spines["top"].set_visible(False)
         ax.spines["right"].set_visible(False)
         for s in ("bottom", "left"):
             ax.spines[s].set_color(t["spine_color"])
             ax.spines[s].set_linewidth(0.5)
 
-        # Ticks & grid
         ax.tick_params(colors=t["tick_color"], labelsize=9, length=0)
-        ax.grid(axis="y", color=t["grid_color"], linewidth=0.5)
 
-        # X-axis: adaptive interval & format based on span
+        # X-axis
         if span_days > 730:
             ax.xaxis.set_major_locator(mdates.MonthLocator(interval=6))
-            ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+            date_fmt = "%b %Y"
         elif span_days > 365:
             ax.xaxis.set_major_locator(mdates.MonthLocator(interval=3))
-            ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+            date_fmt = "%b %Y"
         elif span_days > 90:
             ax.xaxis.set_major_locator(mdates.MonthLocator(interval=1))
-            ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+            date_fmt = "%b %Y"
         elif span_days > 30:
             ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=0, interval=2))
-            ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
+            date_fmt = "%b %d"
         else:
             ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=0))
-            ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
+            date_fmt = "%b %d"
+        ax.xaxis.set_major_formatter(mdates.DateFormatter(date_fmt))
         fig.autofmt_xdate(rotation=0, ha="center")
 
-        # Y-axis
+        # Y-axis: clean intervals
+        y_max = total * 1.08
+        if total > 5000:
+            ax.yaxis.set_major_locator(MultipleLocator(1000))
+        elif total > 2000:
+            ax.yaxis.set_major_locator(MultipleLocator(500))
+        elif total > 500:
+            ax.yaxis.set_major_locator(MultipleLocator(250))
+        else:
+            ax.yaxis.set_major_locator(MultipleLocator(100))
         ax.yaxis.set_major_formatter(FuncFormatter(lambda x, _: f"{int(x):,}"))
-        ax.yaxis.set_major_locator(MaxNLocator(nbins=5, integer=True))
 
         ax.set_xlim(dates[0], dates[-1])
-        ax.set_ylim(bottom=0)
+        ax.set_ylim(bottom=0, top=y_max)
+
+        # Expand right margin slightly for milestone labels
+        ax.margins(x=0.02)
 
         # Save
         path = ASSETS_DIR / f"star-history-{name}.png"
