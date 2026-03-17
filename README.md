@@ -11,6 +11,12 @@
 >
 > I believe non-technical AI super-individuals will reshape every industry. The gap is already narrow enough to cross.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/star-history-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/star-history-light.png">
+  <img alt="GitHub Star History" src="assets/star-history-light.png" width="800">
+</picture>
+
 ---
 
 ## 🔭 Currently Building
