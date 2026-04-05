@@ -30,8 +30,8 @@
 |---------|-------------|-------|
 | [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 40+ real-world AI agent use cases, beginner-friendly 📚 | ![Stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=flat-square) |
 | [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) | Feishu/Lark × OpenClaw step-by-step guide & community 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=flat-square) |
-| [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | Connect Feishu/Lark to OpenClaw — no server, 5 min setup 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square) |
 | [**opencrew**](https://github.com/AlexAnys/opencrew) | Multi-agent OS — run a team of AI specialists via Slack 👥 | ![Stars](https://img.shields.io/github/stars/AlexAnys/opencrew?style=flat-square) |
+| [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | Connect Feishu/Lark to OpenClaw — no server, 5 min setup 🦞 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square) |
 
 ## 🧰 Tools & Products
 
