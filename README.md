@@ -2,7 +2,7 @@
 
 # Hi, I'm Alex 👋
 
-**Non-technical founder who built 20+ tools with AI — early user and contributor of [OpenClaw](https://github.com/openclaw/openclaw).**
+**Non-technical founder who built 20+ tools with AI — early user and contributor of [OpenClaw](https://github.com/openclaw/openclaw) ecosystem.**
 
 📍 Shanghai · 🚀 Founder of [anlan.ai](https://anlan.ai) · 🌉 Bridging Domain Expertise × AI · CEIBS · Chicago Booth
 ---
