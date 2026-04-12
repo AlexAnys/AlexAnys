@@ -61,7 +61,7 @@ Coding inspired by [Andrej Karpathy](https://karpathy.ai/) and [Peter Steinberge
 - ⏱️ **2,000+** hours of AI collaboration (all major AI tools & agents)
 - 💻 **700+** hours of AI coding (Claude Code · Codex · Cursor · Antigravity · VS Code)
 - 🏗️ **Built** 20+ tools/apps + 2 SaaS + 1 multi-agent framework ([OpenCrew](https://github.com/AlexAnys/opencrew))
-- ⭐ **3,500+** GitHub stars across open-source projects
+- ⭐ **5,000+** GitHub stars across open-source projects
 - 🏆 **ChatGPT Top 1% User** — The Strategist, 2025 Annual
 - 🎤 **[CEIBS 2025 AI Leadership Forum](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — Chief Organizer
 - 🎓 **CEIBS MBA AI & Digital Club** — Founder & First President
