@@ -7,9 +7,7 @@
 🚀 Founder of [anlan.ai](https://anlan.ai) · 🌉 Bridging Domain Expertise × AI · CEIBS · Chicago Booth
 ---
 
-> 2,000+ hours of AI collaboration. From zero coding experience to shipping 20+ tools, 2 SaaS platforms, and a multi-agent framework — in 4 months.
->
-> I believe non-technical AI super-individuals will reshape every industry. The gap is already narrow enough to cross.
+> I believe non-technical AI super-individuals are key to reshape every industry. The gap is already narrow enough to cross.
 
 ---
 
