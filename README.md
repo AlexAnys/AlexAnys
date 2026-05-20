@@ -1,6 +1,6 @@
 [🇨🇳 中文版](./README_CN.md)
 
-# Hi, I'm Alex 👋
+# Hi, I'm Alex AN 👋
 
 **Non-technical builder. Exploring how to give domain experts real AI engineering leverage, and building the infra to get there.**
 

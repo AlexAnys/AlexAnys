@@ -1,6 +1,6 @@
 [🇺🇸 English](./README.md)
 
-# 你好，我是 Alex 👋
+# 你好，我是 Alex AN 👋
 
 **非技术背景创业者。探索并搭建让领域专家真正用上 AI 工程能力的基础设施。**
 
@@ -42,7 +42,7 @@
 
 - 🎤 **[中欧 2025 AI 领导力论坛](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — 总策划人
 - 🎓 **中欧 MBA AI & Digital Club** — 创始人 & 首任主席
-- 🎓 **CEIBS** · **Chicago Booth** · **[Anlan.ai](https://anlan.ai)**
+- 🎓 **中欧国际工商学院** · **芝加哥大学布斯商学院** · **恒启安澜科技**
 
 ---
 
