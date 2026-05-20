@@ -13,11 +13,11 @@
 - 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — Multi-agent OS — 7 specialized AI agents collaborate autonomously via Slack. One person runs a full team
 - 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — Agentic coding curriculum — minimum knowledge for building production apps with AI
 - 🛠️ [**harness-design-skill**](https://github.com/AlexAnys/harness-design-skill) — Meta-skill for designing multi-agent harnesses in Claude Code
-- 🤖 [**claude-harness-kit**](https://github.com/AlexAnys/claude-harness-kit) — Multi-agent harness for Claude Code — pre-built 7-agent team with reusable playbooks
 - 📚 [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) — 50+ verified real-world AI agent use cases (Chinese)
 - 🦞 [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) — Feishu/Lark × OpenClaw step-by-step guide & community
 - 🦞 [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) — Feishu/Lark to OpenClaw bridge — no server, 5 min setup
 - 📊 [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) — Feishu MCP server — let AI read & write Feishu docs, tables, and wikis
+- 🤖 [**claude-harness-kit**](https://github.com/AlexAnys/claude-harness-kit) — Multi-agent harness for Claude Code — pre-built 7-agent team with reusable playbooks
 - 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — 18 plug-and-play agent team templates across 12 domains
 
 ---

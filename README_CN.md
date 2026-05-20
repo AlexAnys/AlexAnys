@@ -13,11 +13,11 @@
 - 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — 多智能体协同系统——7 个专业 Agent 通过 Slack 自主协作，一个人运行一支团队
 - 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — 用 AI 做生产级应用的最小必要知识
 - 🛠️ [**harness-design-skill**](https://github.com/AlexAnys/harness-design-skill) — 设计多智能体 harness 的 meta-skill
-- 🤖 [**claude-harness-kit**](https://github.com/AlexAnys/claude-harness-kit) — Claude Code 多智能体 harness——预置 7-agent 团队 + 可复用 playbook
 - 📚 [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) — 50+ 个经验证的 AI 智能体真实用例
 - 🦞 [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) — 飞书 × OpenClaw 保姆级配置指南 & 社区
 - 🦞 [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) — 飞书/Lark 接入 OpenClaw——无需服务器，5 分钟搞定
 - 📊 [**feishu-mcp**](https://github.com/AlexAnys/feishu-mcp) — 飞书全能 MCP server——让 AI 直接读写飞书文档、多维表格和知识库
+- 🤖 [**claude-harness-kit**](https://github.com/AlexAnys/claude-harness-kit) — Claude Code 多智能体 harness——预置 7-agent 团队 + 可复用 playbook
 - 🧩 [**openclaw-agent-blueprints**](https://github.com/AlexAnys/openclaw-agent-blueprints) — 18 个即插即用的 Agent 团队模板，覆盖 12 个领域
 
 ---
