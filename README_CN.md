@@ -42,7 +42,7 @@
 
 - 🎤 **[中欧 2025 AI 领导力论坛](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — 总策划人
 - 🎓 **中欧 MBA AI & Digital Club** — 创始人 & 首任主席
-- 🎓 **Chicago Booth · 中欧 MBA**
+- 🎓 **中欧 MBA** · **Chicago Booth** · **[Anlan.ai](https://anlan.ai)**
 
 ---
 

@@ -42,7 +42,7 @@
 
 - 🎤 **[CEIBS 2025 AI Leadership Forum](http://sh.people.com.cn/n2/2025/0818/c134768-41325556.html)** — Chief Organizer
 - 🎓 **CEIBS MBA AI & Digital Club** — Founder & First President
-- 🎓 **Chicago Booth** · **CEIBS MBA**
+- 🎓 **CEIBS MBA** · **Chicago Booth** · **[Anlan.ai](https://anlan.ai)**
 
 ---
 
