@@ -2,7 +2,7 @@
 
 # Hi, I'm Alex 👋
 
-**Non-technical founder. Building AI tools that help domain experts ship real software.**
+**Non-technical builder. Exploring how to give domain experts real AI engineering leverage, and building the infra to get there.**
 
 🚀 Founder of [anlan.ai](https://anlan.ai) · 🌉 Domain Expertise × AI · CEIBS · Chicago Booth
 ---
@@ -23,6 +23,7 @@
 
 ## 🧰 Other Tools
 
+- 🤖 [**claude-harness-kit**](https://github.com/AlexAnys/claude-harness-kit) — Multi-agent harness for Claude Code — 7-agent team with reusable playbooks
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — Reuse your AI subscriptions (ChatGPT, Claude, Gemini, Copilot) in any open-source app
 - 🗣️ [**typeless-lite**](https://github.com/AlexAnys/typeless-lite) — Voice input organizer. Auto-groups transcripts by day, links to apps & projects
 - ⌨️ [**voiceink**](https://github.com/AlexAnys/voiceink) — Open-source AI-powered input method, runs entirely on-device

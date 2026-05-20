@@ -2,7 +2,7 @@
 
 # 你好，我是 Alex 👋
 
-**非技术背景创业者，做帮助领域专家落地真实软件的 AI 工具。**
+**非技术背景创业者。探索怎么让领域专家真正获得 AI 工程能力，并搭出实现它的基础设施。**
 
 📍 上海 · 🚀 [anlan.ai](https://anlan.ai) 创始人 · 🌉 领域专长 × AI · 中欧 MBA · Chicago Booth
 
@@ -24,6 +24,7 @@
 
 ## 🧰 其他工具
 
+- 🤖 [**claude-harness-kit**](https://github.com/AlexAnys/claude-harness-kit) — Claude Code 多智能体 harness——7-agent 团队 + 可复用 playbook
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — 复用你的 AI 订阅（ChatGPT、Claude、Gemini、Copilot），一个模块集成所有 AI 服务商到任意开源应用
 - 🗣️ [**typeless-lite**](https://github.com/AlexAnys/typeless-lite) — 语音输入整理工具——自动按天整理语音转文字内容
 - ⌨️ [**voiceink**](https://github.com/AlexAnys/voiceink) — 本地开源 AI 输入法，完全在设备端运行
