@@ -4,6 +4,8 @@
 
 **Non-technical builder. Exploring how to give domain experts real AI engineering leverage, and building the infra to get there.**
 
+> I believe non-technical AI super-individuals are key to reshape every industry. The gap is already narrow enough to cross.
+
 ---
 
 ## 🧱 Agent Infra & Ecosystem
