@@ -11,6 +11,8 @@
 ## 🧱 Agent Infra & Ecosystem
 
 - 👥 [**opencrew**](https://github.com/AlexAnys/opencrew) — Multi-agent OS — 7 specialized AI agents collaborate autonomously via Slack. One person runs a full team
+- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — Agentic coding curriculum — minimum knowledge for building production apps with AI
+- 🛠️ [**harness-design-skill**](https://github.com/AlexAnys/harness-design-skill) — Meta-skill for designing multi-agent harnesses in Claude Code
 - 🤖 [**claude-harness-kit**](https://github.com/AlexAnys/claude-harness-kit) — Multi-agent harness for Claude Code — pre-built 7-agent team with reusable playbooks
 - 📚 [**awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) — 50+ verified real-world AI agent use cases (Chinese)
 - 🦞 [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) — Feishu/Lark × OpenClaw step-by-step guide & community
@@ -31,7 +33,6 @@
 ## 🧰 Tools
 
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — Reuse your AI subscriptions (ChatGPT, Claude, Gemini, Copilot) in any open-source app
-- 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — Agentic coding curriculum — minimum knowledge for building production apps with AI
 - 🧬 [**function-distiller-agent-kit**](https://github.com/AlexAnys/function-distiller-agent-kit) — Coding-agent workflow for distilling library functions into license-clean minimal implementations
 - 🔍 [**Chat Archive Atlas**](https://github.com/AlexAnys/chatgpt-export-AI-viewer) — Local-first AI conversation analysis dashboard — full-text search, topic clustering, interaction reports
 
