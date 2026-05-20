@@ -32,6 +32,7 @@
 
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — Reuse your AI subscriptions (ChatGPT, Claude, Gemini, Copilot) in any open-source app
 - 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — Agentic coding curriculum — minimum knowledge for building production apps with AI
+- 🧬 [**function-distiller-agent-kit**](https://github.com/AlexAnys/function-distiller-agent-kit) — Coding-agent workflow for distilling library functions into license-clean minimal implementations
 - 🔍 [**Chat Archive Atlas**](https://github.com/AlexAnys/chatgpt-export-AI-viewer) — Local-first AI conversation analysis dashboard — full-text search, topic clustering, interaction reports
 
 ---

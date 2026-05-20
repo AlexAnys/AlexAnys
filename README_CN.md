@@ -2,7 +2,7 @@
 
 # 你好，我是 Alex 👋
 
-**非技术背景创业者。探索怎么让领域专家真正获得 AI 工程能力，并搭出实现它的基础设施。**
+**非技术背景创业者。探索并搭建让领域专家真正用上 AI 工程能力的基础设施。**
 
 > 我相信，非技术背景诞生的 AI 超级个体，将重构各个产业。这个 gap 已窄到容易跨越。
 
@@ -32,6 +32,7 @@
 
 - 🔌 [**ai-sub-auth**](https://github.com/AlexAnys/ai-sub-auth) — 复用你的 AI 订阅（ChatGPT、Claude、Gemini、Copilot），一个模块集成所有 AI 服务商到任意开源应用
 - 📖 [**agent-first-dev**](https://github.com/AlexAnys/agent-first-dev) — 用 AI 做生产级应用的最小必要知识
+- 🧬 [**function-distiller-agent-kit**](https://github.com/AlexAnys/function-distiller-agent-kit) — 用 coding agent 从开源库蒸馏出 license-clean 的最小函数实现
 - 🔍 [**Chat Archive Atlas**](https://github.com/AlexAnys/chatgpt-export-AI-viewer) — 本地优先的 AI 对话分析看板——全文搜索、话题聚类、交互能力报告
 
 ---
