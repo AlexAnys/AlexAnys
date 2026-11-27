@@ -4,7 +4,7 @@
 
 Founder of [Anlan](https://anlan.ai), helping organizations and business teams put AI to work in real workflows—focusing on departmental workflow diagnosis, pragmatic tool selection, and human-AI collaboration redesign.
 
-Previously responsible for Greater China cross-border M&A research at Rothschild & Co; MBA from CEIBS (exchange at Chicago Booth). With a background in economics, I have spent the past two years building software and workflows extensively with frontier coding agents (6,000+ GitHub stars across open-source projects). I also teach the *AI for Agent* module at CEIBS InnoLab, founded the CEIBS MBA AI & Digital Club, and initiated and curated the [2025 CEIBS AI Leadership Forum](https://cn.ceibs.edu/media/news/events-visits/27383).
+Previously responsible for Greater China cross-border M&A research at Rothschild & Co; MBA from CEIBS (exchange at Chicago Booth). With a background in economics, I have spent the past two years building software and workflows extensively with frontier coding agents (6,000+ GitHub stars across open-source projects), and currently teach the *AI for Agent* module at CEIBS InnoLab. Earlier, I founded the CEIBS MBA AI & Digital Club—leading a team to deliver AI workflow diagnosis and implementation for an NYSE-listed enterprise, and initiating and curating the [2025 CEIBS AI Leadership Forum](https://cn.ceibs.edu/media/news/events-visits/27383).
 
 Open to conversations on departmental AI adoption and joint project delivery.
 
